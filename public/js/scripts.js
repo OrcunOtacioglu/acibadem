@@ -312,7 +312,7 @@ function initCitybook() {
     if ($("#footer-twiit").length > 0) {
         var config1 = {
             "profile": {
-                "screenName": 'envatomarket'
+                "screenName": 'AcibademSaglik'
             },
             "domId": 'footer-twiit',
             "maxTweets": 2,
