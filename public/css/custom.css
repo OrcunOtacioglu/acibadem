@@ -1,0 +1,12 @@
+.listing-geodir-category span {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 13px;
+}
+.details {
+    display: block;
+    margin-top: 10px;
+}
+.details:hover {
+    color: #4DB7FE;
+}
