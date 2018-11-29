@@ -7,7 +7,7 @@
                     <div class="footer-contacts-widget fl-wrap">
                         <p>In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna. Etiam suscipit commodo gravida. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam. </p>
                         <ul  class="footer-contacts fl-wrap">
-                            <li><span><i class="fa fa-envelope-o"></i> Mail :</span><a href="#" target="_blank">info@acibadem.com</a></li>
+                            <li><span><i class="fa fa-envelope-o"></i> Mail :</span><a href="#" target="_blank">info@hairtrip.com</a></li>
                             <li> <span><i class="fa fa-map-marker"></i> Adress :</span><a href="#" target="_blank">Esentepe Istanbul</a></li>
                             <li><span><i class="fa fa-phone"></i> Phone :</span><a href="#">+90(216)544 46 64</a></li>
                         </ul>
@@ -37,7 +37,7 @@
                         <div class="footer-menu fl-wrap">
                             <ul>
                                 <li><a href="#">Home</a></li>
-                                <li><a href="#">Why Acıbadem</a></li>
+                                <li><a href="#">Why HairTrip</a></li>
                                 <li><a href="#">Treatment</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul>
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="copyright"> &#169; Acıbadem 2018 .  All rights reserved.</div>
+                    <div class="copyright"> &#169; Hairtrip 2018 .  All rights reserved.</div>
                 </div>
                 <div class="col-md-4">
                     <div class="footer-social">

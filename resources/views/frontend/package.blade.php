@@ -31,7 +31,7 @@
                             <div class="list-single-header-contacts fl-wrap">
                                 <ul>
                                     <li><i class="fa fa-phone"></i><a  href="#">+90(216)649 44 44</a></li>
-                                    <li><i class="fa fa-envelope-o"></i><a  href="#">info@acibadem.com</a></li>
+                                    <li><i class="fa fa-envelope-o"></i><a  href="#">info@hairtrip.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                                         <ul>
                                             <li><span><i class="fa fa-map-marker"></i> Adress :</span> <a href="#">Altunizade Mah. Yurtcan Sok. No: 1 Üsküdar / İstanbul 34662</a></li>
                                             <li><span><i class="fa fa-phone"></i> Phone :</span> <a href="#">+90(216)649 44 44</a></li>
-                                            <li><span><i class="fa fa-envelope-o"></i> Mail :</span> <a href="#">atzinfo@acibadem.com.tr</a></li>
+                                            <li><span><i class="fa fa-envelope-o"></i> Mail :</span> <a href="#">atzinfo@hairtrip.com</a></li>
                                         </ul>
                                     </div>
                                     <div class="list-widget-social">

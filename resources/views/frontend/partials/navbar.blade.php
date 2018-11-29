@@ -19,7 +19,7 @@
                         <a href="{{ url('/') }}" class="act-link">Home</a>
                     </li>
                     <li>
-                        <a href="{{ url('/why-us') }}">Why Acıbadem?</a>
+                        <a href="{{ url('/why-us') }}">Why HairTrip?</a>
                     </li>
                     <li>
                         <a href="{{ url('/treatment') }}">Treatment</a>
